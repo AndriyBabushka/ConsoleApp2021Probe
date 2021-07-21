@@ -6,5 +6,5 @@ int main()
     std::cout << "Branch\n";
     std::cout << "Master\n";
     std::cout << "GitHub\n";
-    std::cout << "Clone\n";
+    std::cout << "PUSH\n";
 }
