@@ -6,6 +6,7 @@ int main()
     std::cout << "dfgrfdg\n";
     std::cout << "gdsfrg\n";
     std::cout << "gsrdg\n";
-    std::cout << "New\n";
-    std::cout << "NEW\n";
+    std::cout << "New1111\n";
+    std::cout << "NEW11111\n";
+    std::cout << "NEW1\n";
 }
