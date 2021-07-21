@@ -7,4 +7,5 @@ int main()
     std::cout << "PUSH\n";
     std::cout << "PUSH\n";
     std::cout << "PUSH\n";
+    std::cout << "NEW\n";
 }
